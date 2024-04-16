@@ -2,7 +2,6 @@ import Editor from '@monaco-editor/react';
 import { RequirementType } from '@prisma/client';
 import { useRouter } from 'next/router';
 import { useEffect, useMemo, useState } from 'react';
-
 import Switch from 'react-switch';
 
 import {
